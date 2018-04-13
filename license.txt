@@ -1,0 +1,1 @@
+The source code in this project can be freely used as long as the copyright notice is kept in place. Altering the copyright notice violates the terms of use for the files in this project. Distribution of modified copies of source code or project is allowed as long as the copyright notices are kept in the source files.
