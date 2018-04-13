@@ -1,0 +1,19 @@
+c:\users\devices\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MTGSMFunctions.exe.config
+c:\users\devices\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\MTGSMFunctions.Properties.Resources.resources
+c:\users\devices\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GSM Function.csproj.GenerateResource.Cache
+c:\users\devices\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MTGSMFunctions.exe
+c:\users\devices\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MTGSMFunctions.pdb
+c:\users\devices\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\MTGSMFunctions.exe
+c:\users\devices\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\MTGSMFunctions.pdb
+c:\users\devices\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\MTGSMFunctions.MainWindow.resources
+C:\Users\Devices\Documents\Visual Studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GSM Function.csprojResolveAssemblyReference.cache
+C:\Users\Devices\Documents\Visual Studio 2017\Projects\GSM\bin\Debug\MTGSMFunctions.exe.config
+C:\Users\Devices\Documents\Visual Studio 2017\Projects\GSM\bin\Debug\MTGSMFunctions.exe
+C:\Users\Devices\Documents\Visual Studio 2017\Projects\GSM\obj\x86\Debug\GSM Function.csprojResolveAssemblyReference.cache
+C:\Users\Devices\Documents\Visual Studio 2017\Projects\GSM\obj\x86\Debug\MTGSMFunctions.MainWindow.resources
+C:\Users\Devices\Documents\Visual Studio 2017\Projects\GSM\obj\x86\Debug\MTGSMFunctions.Properties.Resources.resources
+C:\Users\Devices\Documents\Visual Studio 2017\Projects\GSM\obj\x86\Debug\GSM Function.csproj.GenerateResource.Cache
+C:\Users\Devices\Documents\Visual Studio 2017\Projects\GSM\obj\x86\Debug\GSM Function.csproj.CoreCompileInputs.cache
+C:\Users\Devices\Documents\Visual Studio 2017\Projects\GSM\obj\x86\Debug\MTGSMFunctions.exe
+C:\Users\Devices\Documents\Visual Studio 2017\Projects\GSM\obj\x86\Debug\MTGSMFunctions.pdb
+C:\Users\Devices\Documents\Visual Studio 2017\Projects\GSM\bin\Debug\MTGSMFunctions.pdb
